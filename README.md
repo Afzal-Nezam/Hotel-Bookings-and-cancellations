@@ -75,9 +75,7 @@ Interactive Slicers: Filters for hotel type, time period, booking status, custom
 📷 Preview
     screenshots link here
 
-👉 https://github.com/Afzal-Nezam/Coffee-Sales-Dashboard/blob/main/Screenshot%202025-05-18%20033143.png
-
-
+👉 https://github.com/Afzal-Nezam/Hotel-Bookings-and-cancellations/blob/main/Screenshot%202025-05-26%20025449.png
 
 
 📧 Email: afzalnezam@gmail.com
